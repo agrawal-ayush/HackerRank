@@ -1,5 +1,3 @@
-package linkedList;
-
 /*
 Insert Node at the end of a linked list 
 head pointer input could be NULL as well for empty list
